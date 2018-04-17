@@ -1,5 +1,5 @@
 {
-  "name": "utc-format",
+  "name": "@4keys/utc-format",
   "version": "1.0.0",
   "description": "Return the formatted date string in the given format.",
   "keywords": [
